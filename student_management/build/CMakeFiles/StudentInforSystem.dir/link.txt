@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/StudentInforSystem.dir/main.cpp.o CMakeFiles/StudentInforSystem.dir/src/Student.cpp.o CMakeFiles/StudentInforSystem.dir/src/StudentManager.cpp.o -o StudentInforSystem 
