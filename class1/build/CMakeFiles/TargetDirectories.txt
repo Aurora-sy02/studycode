@@ -1,3 +1,0 @@
-/home/aurora/studycode/class1/build/CMakeFiles/main.dir
-/home/aurora/studycode/class1/build/CMakeFiles/edit_cache.dir
-/home/aurora/studycode/class1/build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/aurora/code/student_management/build/CMakeFiles/StudentInforSystem.dir
-/home/aurora/code/student_management/build/CMakeFiles/edit_cache.dir
-/home/aurora/code/student_management/build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/aurora/studycode/simple_book_class/build/CMakeFiles/Book_Class.dir
-/home/aurora/studycode/simple_book_class/build/CMakeFiles/edit_cache.dir
-/home/aurora/studycode/simple_book_class/build/CMakeFiles/rebuild_cache.dir
